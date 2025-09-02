@@ -1,0 +1,1 @@
+guidebook = { name = 'guidebook', label = 'guidebook', type = 'item',weight = 100, type = 'guidebook', image = 'guidebook.png',unique = false, useable = true, shouldClose = true, description = 'guidebook' },
